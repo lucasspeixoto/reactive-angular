@@ -4,3 +4,8 @@
 @import '../node_modules/primeflex/primeflex.scss';
 @import '../node_modules/primeicons/primeicons.css';
 @import '../node_modules/prismjs/themes/prism-dark.css';
+
+@import 'src/app/styles/layout/_variables';
+@import 'src/app/styles/layout/_layout';
+@import 'src/app/styles/overrides/_overrides';
+@import 'src/app/styles/global/_global';

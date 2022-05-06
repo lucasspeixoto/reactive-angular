@@ -30,10 +30,12 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
-              "src/styles.scss"
-            ],
-            "scripts": []
+            "styles": ["src/styles.scss"],
+						"scripts": [
+							"node_modules/prismjs/prism.js",
+							"node_modules/prismjs/components/prism-typescript.js"
+						],
+						"allowedCommonJsDependencies": ["chart.js"]
           },
           "configurations": {
             "production": {
@@ -98,9 +100,7 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
-              "src/styles.scss"
-            ],
+            "styles": ["src/styles.scss"],
             "scripts": []
           }
         }
