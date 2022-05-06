@@ -44,12 +44,4 @@ Os exemplos utilizam um material de apoio, que pode ser acessado neste link: [Ma
 
 # Importante
 
-Este repositório possue diversar branches, cada branch possue implementações de um tema específico.
-
-# Relação temas x Branchs
-
-| Tema              | Nome da Branch |
-| ----------------- | -------------- |
-| Projeto em branco | master         |
-| Stream de Dados   | streams        |
-| Observables       | observables    |
+Cada assunto vai ser abordado em um componente diferente e injetado dentro de app.component para visualização
