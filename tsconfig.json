@@ -4,8 +4,9 @@
   "compilerOptions": {
     "baseUrl": "src",
 		"paths": {
-			"@envs/*": ["environments/*"],
 			"@app/*": ["app/*"],
+      "@components/*": ["app/components/*"],
+      "@modules/*": ["app/modules/*"],
 			"@shared/*": ["app/shared/*"],
 		},
     "outDir": "./dist/out-tsc",
