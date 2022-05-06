@@ -1,0 +1,18 @@
+{
+  "data": {
+    "users": [
+      {
+        "id": 1,
+        "name": "Arnold Schwarzenegger",
+        "email": "arnold@gmail.com",
+        "age": 74
+      },
+      {
+        "id": 1,
+        "name": "Sylvester Stallone",
+        "email": "rambo@gmail.com",
+        "age": 75
+      }
+    ]
+  }
+}
