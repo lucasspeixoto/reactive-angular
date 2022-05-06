@@ -50,6 +50,6 @@ Este repositório possue diversar branches, cada branch possue implementações 
 
 | Tema              | Nome da Branch |
 | ----------------- | -------------- |
-| Projeto em branco | develop        |
+| Projeto em branco | master         |
 | Stream de Dados   | streams        |
 | Observables       | observables    |
